@@ -19,7 +19,7 @@ flowchart TD
 ## **Guessing Game Flowchart Explanation**
 
 1. **Start**: The program begins and initializes the game.
-2. **GenerateNumber**: The program generates a random number within a specified range (e.g., 1 to 100).
+2. **GenerateNumber**: The program generates a random number within a specified range ( 1 to 100).
 3. **GetInput**: The user is prompted to enter a guess.
 4. **ValidateInput**: The program checks if the user's input is valid (numeric and within the correct range).
     - If the input is invalid, the program prompts the user to enter a valid guess.
